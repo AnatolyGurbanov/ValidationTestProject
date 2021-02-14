@@ -88,3 +88,5 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+ValidationTestProject/ValidationTestProject.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+ValidationTestProject/ValidationTestProject.xcodeproj/project.xcworkspace/contents.xcworkspacedata
